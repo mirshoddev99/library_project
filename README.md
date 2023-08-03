@@ -1,2 +1,2 @@
-# library_project
-REST Full API for Library project
+# Pibrary Project
+## REST Full API for the Library project
