@@ -29,7 +29,8 @@ ALLOWED_HOSTS = ['*']
 INSTALLED_APPS = [
     'books',
 
-    'drf_yasg', # swagger
+    'drf_yasg',
+
     'rest_framework',
     'rest_framework.authtoken',
     'dj_rest_auth',
